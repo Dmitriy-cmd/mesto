@@ -1,3 +1,9 @@
 .profile__add-btn {
-    
+    color: #FFFFFF;
+    height: 50px;
+    width: 150px;
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+    box-sizing: border-box;
+    background: url("../../../images/plus-icon.svg") center no-repeat;
 }
